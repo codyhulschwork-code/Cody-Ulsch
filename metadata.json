@@ -1,0 +1,6 @@
+{
+  "name": "Cody Ulsch - Senior Software Engineer Resume & Cover Letter Generator",
+  "description": "ATS-friendly Senior Software Engineer resume generator tailored to Job Descriptions with automated JD URL fetching, deep stack analysis, custom React-PDF templates, and cover letter generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
